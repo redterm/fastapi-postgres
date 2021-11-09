@@ -1,0 +1,14 @@
+fastapi
+pydantic
+uvicorn
+sqlalchemy
+pymysql
+passlib
+python-jose
+python-multipart
+bcrypt
+jose
+asyncpg
+psycopg2-binary
+databases
+ratelimit
